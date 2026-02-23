@@ -22,6 +22,16 @@ Highly seasoned **Senior Business Analyst** with a career spanning two and a hal
 | **Data & CRM** | Airtable, SQL, Excel (Power User) |
 | **Collaboration** | GitHub (Version Control), Slack, Microsoft Teams |
 | **AI** | ChatGPT (Prompt Engineering), LLM Integration |
+## 🛠 Tech Stack & Modern Tools
+*I leverage a multi-LLM strategy to ensure accuracy, context, and efficiency across the project lifecycle.*
+
+| Category | Tools | Primary Use Case |
+| :--- | :--- | :--- |
+| **Orchestration** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) | Workflow automation & relational data tracking. |
+| **Analysis** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) | Long-document analysis (200k+ context) and precise technical writing. |
+| **Ecosystem** | ![MS Copilot](https://img.shields.io/badge/MS_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white) | Seamless integration with Excel, Teams, and the M365 suite. |
+| **Multimodal** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | Real-time web research, multimodal (video/image) analysis, and Google Workspace. |
+| **Generalist** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) | Rapid prototyping, brainstorming, and logic verification. |
 
 ---
 
