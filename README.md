@@ -16,22 +16,32 @@ Highly seasoned **Senior Business Analyst** with a career spanning two and a hal
 ## 🛠 Tech Stack & Modern Tools
 *While I am a veteran in standard BA methodologies (Agile, Waterfall, Jira, Visio), I am currently mastering modern "connective tissue" tools:*
 
-| Category | Tools |
-| :--- | :--- |
-| **Automation** | n8n, Zapier |
-| **Data & CRM** | Airtable, SQL, Excel (Power User) |
-| **Collaboration** | GitHub (Version Control), Slack, Microsoft Teams |
-| **AI** | ChatGPT (Prompt Engineering), LLM Integration |
 ## 🛠 Tech Stack & Modern Tools
-*I leverage a multi-LLM strategy to ensure accuracy, context, and efficiency across the project lifecycle.*
+*I specialize in bridging the gap between legacy enterprise systems and modern AI-driven automation workflows.*
 
-| Category | Tools | Primary Use Case |
+### 🤖 AI Strategy & Analysis
+| Tool | Specialization | Badge |
 | :--- | :--- | :--- |
-| **Orchestration** | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) | Workflow automation & relational data tracking. |
-| **Analysis** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) | Long-document analysis (200k+ context) and precise technical writing. |
-| **Ecosystem** | ![MS Copilot](https://img.shields.io/badge/MS_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white) | Seamless integration with Excel, Teams, and the M365 suite. |
-| **Multimodal** | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | Real-time web research, multimodal (video/image) analysis, and Google Workspace. |
-| **Generalist** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) | Rapid prototyping, brainstorming, and logic verification. |
+| **Claude** | Deep technical documentation & logic auditing. | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white) |
+| **MS Copilot** | M365 integration (Excel/Teams) & internal data. | ![MS Copilot](https://img.shields.io/badge/MS_Copilot-0078D4?style=flat&logo=microsoft&logoColor=white) |
+| **Google Gemini** | Real-time research & multimodal (video/doc) analysis. | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white) |
+| **ChatGPT** | Rapid prototyping & complex prompt engineering. | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) |
+
+### ⚙️ Automation & Version Control
+| Tool | Use Case | Badge |
+| :--- | :--- | :--- |
+| **n8n** | Self-hosted, complex multi-step logic (Low-Code). | ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=flat&logo=n8n&logoColor=white) |
+| **Zapier** | Rapid cloud-to-cloud integration & task automation. | ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat&logo=zapier&logoColor=white) |
+| **GitHub** | Version control for requirements & documentation. | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+
+### 📊 Data & Enterprise Collaboration
+| Tool | Expertise Level | Badge |
+| :--- | :--- | :--- |
+| **Excel** | Expert (VBA, Power Query, Financial Modeling). | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **SQL** | Relational data extraction & gap analysis. | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) |
+| **Airtable** | Modern relational database & CRM design. | ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white) |
+| **Slack** | Asynchronous team comms & bot integration. | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) |
+| **MS Teams** | Enterprise collaboration & stakeholder workshops. | ![MS Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) |
 
 ---
 
