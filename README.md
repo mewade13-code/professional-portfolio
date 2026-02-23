@@ -14,9 +14,6 @@ Highly seasoned **Senior Business Analyst** with a career spanning two and a hal
 ---
 
 ## 🛠 Tech Stack & Modern Tools
-*While I am a veteran in standard BA methodologies (Agile, Waterfall, Jira, Visio), I am currently mastering modern "connective tissue" tools:*
-
-## 🛠 Tech Stack & Modern Tools
 *I specialize in bridging the gap between legacy enterprise systems and modern AI-driven automation workflows.*
 
 ### 🤖 AI Strategy & Analysis
