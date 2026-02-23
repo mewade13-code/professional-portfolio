@@ -9,7 +9,7 @@ Highly seasoned **Senior Business Analyst** with a career spanning two and a hal
 
 - 📍 **Location:** UK (Bletchley/Remote)
 - 🛠 **Current Focus:** Architecting automated "Job Search & Pipeline" workflows.
-- 📈 **Key Metric:** 25 years of delivering high-impact requirements and process optimization.
+- 📈 **Key Metric:** 25 years of delivering high-impact requirements and process optimisation.
 
 ---
 
